@@ -1,0 +1,5 @@
+genders = {"male": 0, "female": 1}
+data = [train_df, test_df]
+
+for dataset in data:
+    dataset['Sex'] = dataset['Sex'].map(genders)
