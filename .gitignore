@@ -1,0 +1,14 @@
+# Ignore all PDF files
+*.pdf
+
+# Ignore all CSV files
+*.csv
+
+# Ignore all XLSX files
+*.xlsx
+
+# Ignore all JSON files
+*.json
+
+# Ignore the AI_machine_learning_trainning folder and all its contents
+AI_machine_learning_trainning/
